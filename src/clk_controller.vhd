@@ -1,20 +1,3 @@
-----------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  10.05.2019 15:01:12
--- Module Name:  clk_controller - Behavioral
--- Project Name: CPU-design
--- Description:  Clock controller - takes in a clock signal of 100MHz and allows the
---               user to choose what clock signal is sent to the CPU: 1kHz, 100Hz, 50Hz,
---               20Hz, 10Hz, 1Hz, or manual clocking.
---               Default mode is 20Hz normal clocking.
--- 
--- Dependencies: debounce.vhd
--- 
-----------------------------------------------------------------------------------
-
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 

@@ -1,17 +1,3 @@
-------------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  27.03.2019 15:20:00
--- Module Name:  debounce - Behavioural
--- Project Name: CPU-design
--- Resources:    https://www.digikey.com/eewiki/pages/viewpage.action?pageId=4980758
--- Description:  VHDL implemented button debouncing
--- 
--- Dependencies: None
--- 
-------------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 

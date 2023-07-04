@@ -1,18 +1,3 @@
-----------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  25.02.2019 22:13:48
--- Module Name:  bin_to_bcd - Behavioural
--- Project Name: CPU-design
--- Resources:    https://en.wikipedia.org/wiki/Double_dabble#VHDL_implementation
--- Description:  Converts an input binary number into a binary coded decimal using
---               the double dabble algorithm
--- 
--- Dependencies: None
--- 
-----------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;

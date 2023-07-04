@@ -1,16 +1,3 @@
-----------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  23.03.2019 01:13:19
--- Module Name:  reg - Behavioural
--- Project Name: CPU-design
--- Description:  Writes data to a register
--- 
--- Dependencies: None
--- 
-----------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 

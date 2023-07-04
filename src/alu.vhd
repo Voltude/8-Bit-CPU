@@ -1,18 +1,3 @@
------------------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  -
--- Module Name:  alu - Behavioural
--- Project Name: CPU-design
--- Resources:    https://www.nand2tetris.org/  for opcode
--- Description:  Arithmetic logic unit. Performs operations on the values in
---               regs, A and B. Outputs the result. Takes in a 6-bit opcode instruction
--- 
--- Dependencies: None
--- 
------------------------------------------------------------------------------------------
-
 library ieee;
 use ieee.std_logic_1164.ALL;
 use ieee.numeric_std.all;

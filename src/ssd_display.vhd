@@ -1,16 +1,3 @@
----------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  25.02.2019 23:57:51
--- Module Name:  ssd_display - Behavioural
--- Project Name: CPU-design
--- Description:  Displays stuff on a seven segment display
--- 
--- Dependencies: bin_to_bcd.vhd, bcd_to_ssd.vhd
--- 
----------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 

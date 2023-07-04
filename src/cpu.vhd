@@ -1,17 +1,3 @@
-----------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  09.05.2019 21:02:26
--- Module Name:  cpu - Structural
--- Project Name: CPU-design
--- Description:  Structural file to configure the connections between the parts
---               of the CPU - the controller, ALU, and registers 
--- 
--- Dependencies: alu.vhd, reg_file.vhd, controller.vhd
--- 
-----------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 

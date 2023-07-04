@@ -1,16 +1,3 @@
-----------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  21.04.2019 12:46:14
--- Module Name:  uart_controller - Behavioural
--- Project Name: CPU-design
--- Description:  Controls uart 
--- 
--- Dependencies: None 
--- 
-----------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;

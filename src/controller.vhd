@@ -1,18 +1,3 @@
-----------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  09.05.2019 00:08:44
--- Module Name:  controller - Behavioural
--- Project Name: CPU-design
--- Description:  Controls operations within the CPU - reads instructions from RAM
---               and decodes/executes these instructions. Generates the required
---               register and ALU control signals.
--- 
--- Dependencies: None
--- 
-----------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;

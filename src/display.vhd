@@ -1,19 +1,3 @@
-----------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  12.05.2019 12:37:58
--- Module Name:  display - Behavioural
--- Project Name: CPU-design
--- Description:  Controls displaying information on the seven segment display and 
---               leds.
---               Features in-built clock divider because display should run at a 
---               reduced frequency from the input 100MHz.
--- 
--- Dependencies: ssd_display.vhd
--- 
-----------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 

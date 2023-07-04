@@ -1,17 +1,3 @@
-----------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  12.05.2019 10:51:46
--- Module Name:  Computer - structural
--- Project Name: CPU-design
--- Description:  Top module
--- 
--- Dependencies: clk_controller.vhd, cpu.vhd, display.vhd, programmer.vhd, ram.vhd
--- 
-----------------------------------------------------------------------------------
-
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 

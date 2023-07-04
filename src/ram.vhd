@@ -1,16 +1,3 @@
-----------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  01.05.2019 14:23:41
--- Module Name:  ram - Behavioural
--- Project Name: CPU-design
--- Description:  Dual Port Random Access Memory Implementation
--- 
--- Dependencies: None
--- 
-----------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;

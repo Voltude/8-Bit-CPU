@@ -1,16 +1,3 @@
-----------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  08.05.2019 20:44:35
--- Module Name:  reg_file - Behavioral
--- Project Name: CPU-design
--- Description:  Generates a register file
--- 
--- Dependencies: reg.vhd
--- 
-----------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 

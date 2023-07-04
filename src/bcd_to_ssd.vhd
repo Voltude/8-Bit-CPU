@@ -1,16 +1,3 @@
-----------------------------------------------------------------------------------
--- Author:       Lab A01 Group 18
--- 
--- Assignment:   ENEL373 ALU+FSM+Regs project
--- Create Date:  25.02.2019 21:32:18
--- Module Name:  bcd_to_ssd - Behavioural
--- Project Name: CPU-design
--- Description:  Output binary coded decimal on a seven segment display
--- 
--- Dependencies: None
--- 
-----------------------------------------------------------------------------------
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
